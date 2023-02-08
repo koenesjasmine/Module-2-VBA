@@ -8,8 +8,10 @@ During this analysis, the priority was to develop VBA Scirpts to analyze availab
 Steve's parents interest in DQ is likely based on the 2017 performance, it had almost a 200% gain, however in 2018 it performed rather poorly shrinking by over 60% ENPH shows a much more promising performance over both years. 
 When refactoring the intial VBA Code it runs significantly faster. 
 The Initial VBA Code took about .65 seconds
+![alt text](https://github.com/koenesjasmine/Module-2-VBA/blob/main/resources/VBA_Challenge_2018.PNG?raw=true)
 
 Comparing it to the refactored code which took about .13 seconds
+![alt text](https://github.com/koenesjasmine/Module-2-VBA/blob/main/resources/VBA_Challenge_2018_RF.PNG?raw=true)
 ### Code
 In the intial code, we pulled and output data for the volume, starting price, and ending price of one stock- resetting those variables with each iteration of the loop, 12 rounds for each ticker, and loops through the entire set of variable (3000 rows) whcich is essentially 36,000 rows of data
 ```
