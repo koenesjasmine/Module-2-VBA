@@ -8,6 +8,7 @@ During this analysis, the priority was to develop VBA Scirpts to analyze availab
 Steve's parents interest in DQ is likely based on the 2017 performance, it had almost a 200% gain, however in 2018 it performed rather poorly shrinking by over 60% ENPH shows a much more promising performance over both years. 
 When refactoring the intial VBA Code it runs significantly faster. 
 The Initial VBA Code took about .65 seconds
+
 ![alt text](https://github.com/koenesjasmine/Module-2-VBA/blob/main/resources/VBA_Challenge_2018.PNG?raw=true)
 
 Comparing it to the refactored code which took about .13 seconds
